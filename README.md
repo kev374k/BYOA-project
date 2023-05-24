@@ -11,4 +11,4 @@ After this, go to either Finder(Mac) or File Manager(Windows) and unzip/open the
 
 ![gif](https://github.com/kev374k/BYOA-project/assets/54005848/8e19b49f-1f72-4165-a99a-53def1d8cc6d)
 
-Open the HTML file, and enjoy exploring our Adventure into Project: Starstruck, by Kevin Wong, Chloe Kim, and Patric Sanchez
+Open the HTML file, and hope into Project Starstruck
